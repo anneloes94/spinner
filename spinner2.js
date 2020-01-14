@@ -1,4 +1,4 @@
-let count = 100
+let count = 100;
 let array = ['|', '/', '-', '\\', '|', '/', '-', '\\', '|'];
 for (let char of array) {
   setTimeout(() => {
